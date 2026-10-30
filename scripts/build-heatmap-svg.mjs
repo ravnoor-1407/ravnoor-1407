@@ -108,10 +108,11 @@ const cellsSvg = days
 let streakSvg = "";
 if (best > 1) {
   const startPos = pos(bestStart);
-  const labelX = Math.min(startPos.x, W - 360);
+  const totalCols = Math.floor((days.length - 1 + offset) / 7) + 1;
+  const gridRight = GRID_X + (totalCols - 1) * STEP + CELL;
   streakSvg = `<g class="hm-fade" style="animation-delay:2.6s">
       <path d="M${startPos.x + CELL / 2} ${GRID_Y + 7 * STEP - 2} V ${GRID_Y + 7 * STEP + 10}" stroke="#22D3EE" stroke-opacity=".7"/>
-      <text class="hm-mono" x="${labelX}" y="${GRID_Y + 7 * STEP + 24}" font-size="10.5" letter-spacing="1.6" fill="#22D3EE">LONGEST STREAK · ${best} DAYS · ${fmt(toDate(days[bestStart].date)).toUpperCase()} – ${fmt(toDate(days[bestEnd].date)).toUpperCase()}</text>
+      <text class="hm-mono" x="${gridRight}" y="${GRID_Y + 7 * STEP + 24}" text-anchor="end" font-size="10" letter-spacing="1.4" fill="#22D3EE">LONGEST STREAK · ${best} DAYS · ${fmt(toDate(days[bestStart].date)).toUpperCase()} – ${fmt(toDate(days[bestEnd].date)).toUpperCase()}</text>
     </g>`;
 }
 

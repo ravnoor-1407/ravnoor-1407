@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-labelledby="hm-title hm-desc">
   <title id="hm-title">GitHub contributions for @ravnoor-1407</title>
-  <desc id="hm-desc">225 contributions from 26 Oct 2025 to 30 Oct 2026: 20 active days, longest streak 3 days, busiest day 40 contributions on 5 Oct 2026. Source: public GitHub contribution calendar, snapshot 30 Oct 2026.</desc>
+  <desc id="hm-desc">230 contributions from 26 Oct 2025 to 30 Oct 2026: 20 active days, longest streak 3 days, busiest day 40 contributions on 5 Oct 2026. Source: public GitHub contribution calendar, snapshot 30 Oct 2026.</desc>
   <defs>
     <linearGradient id="hm-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#050814"/>
@@ -42,7 +42,7 @@
     <text class="hm-serif" x="54" y="128" font-size="24" font-weight="700" fill="#FFFFFF"><tspan font-style="italic" fill="#22D3EE">one square</tspan> at a time.</text>
     <g transform="translate(580 54)">
       <text class="hm-mono" font-size="10" letter-spacing="1.8" fill="#8B5CF6">CONTRIBUTIONS</text>
-      <text class="hm-serif" y="44" font-size="34" font-weight="700" fill="#FFFFFF">225</text>
+      <text class="hm-serif" y="44" font-size="34" font-weight="700" fill="#FFFFFF">230</text>
       <text class="hm-mono" y="64" font-size="9.5" fill="#94A3B8">Oct 2025 – Oct 2026</text>
     </g>
     <g transform="translate(725 54)">
@@ -439,7 +439,7 @@
     <rect class="hm-c" style="animation-delay:1.294s" x="1106" y="220" width="15" height="15" rx="3.5" fill="#0B1020"><title>0 contributions · 27 Oct 2026</title></rect>
     <rect class="hm-c" style="animation-delay:1.322s" x="1106" y="239" width="15" height="15" rx="3.5" fill="#0B1020"><title>0 contributions · 28 Oct 2026</title></rect>
     <rect class="hm-c" style="animation-delay:1.351s" x="1106" y="258" width="15" height="15" rx="3.5" fill="#4C1D95"><title>11 contributions · 29 Oct 2026</title><animate attributeName="fill" values="#4C1D95;#0B1020" keyTimes="0;0.8470" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:1.380s" x="1106" y="277" width="15" height="15" rx="3.5" fill="#8B5CF6"><title>29 contributions · 30 Oct 2026</title><animate attributeName="fill" values="#8B5CF6;#0B1020" keyTimes="0;0.8493" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:1.380s" x="1106" y="277" width="15" height="15" rx="3.5" fill="#22D3EE" filter="url(#hm-glow)"><title>34 contributions · 30 Oct 2026</title><animate attributeName="fill" values="#22D3EE;#0B1020" keyTimes="0;0.8493" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
   </g>
 
   <g class="hm-motion">

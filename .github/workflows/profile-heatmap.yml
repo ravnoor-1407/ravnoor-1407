@@ -2,7 +2,10 @@ name: Refresh profile heatmap
 
 on:
   schedule:
+<<<<<<< HEAD
     # Daily at 05:30 UTC, before the Pages deploy at 06:00
+=======
+>>>>>>> f5e143557fe48389e1d9658d608cd91a2221b019
     - cron: "30 5 * * *"
   workflow_dispatch: {}
 
@@ -23,7 +26,10 @@ jobs:
         with:
           node-version: 22
 
+<<<<<<< HEAD
       # Public calendar data only; no token is written anywhere.
+=======
+>>>>>>> f5e143557fe48389e1d9658d608cd91a2221b019
       - name: Fetch contributions
         env:
           GH_USERNAME: ${{ github.repository_owner }}

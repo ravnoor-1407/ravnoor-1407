@@ -1,0 +1,14 @@
+{
+  "name": "ravnoor-1407",
+  "version": "1.0.0",
+  "description": "Custom GitHub Profile README and Portfolio for Ravnoor Kaur",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "contributions": "node scripts/fetch-contributions.mjs",
+    "assets": "node scripts/generate-assets.mjs",
+    "start": "node scripts/serve.mjs"
+  }
+}

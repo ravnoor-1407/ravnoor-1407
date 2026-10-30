@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ab-t ab-d">
+  <title id="ab-t">About Ravnoor Kaur</title>
+  <desc id="ab-d">Aspiring Software Developer. B.Tech in CSE (AI &amp; ML) at Lovely Professional University, CGPA 8.44. Community Development Intern at Times of India and AI/ML Intern at Uplyx Solutions. Shipped Nyaya Sahayak, Amazon Clone, CodeCaffeine and WebDev Progress Log.</desc>
+  <defs>
+    <linearGradient id="ab-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#050814"/></linearGradient>
+    <radialGradient id="ab-glow" cx="80%" cy="20%" r="70%"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <pattern id="ab-scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#22D3EE" opacity=".03"/></pattern>
+    <clipPath id="ab-c0"><rect class="ab-type" x="68" y="102" width="89" height="24" style="animation-delay:0.5s;animation-duration:0.4s;animation-timing-function:steps(6)"/></clipPath>
+    <clipPath id="ab-c1"><rect class="ab-type" x="68" y="126" width="580" height="24" style="animation-delay:1.0s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c2"><rect class="ab-type" x="68" y="152" width="200" height="24" style="animation-delay:1.8s;animation-duration:0.5s;animation-timing-function:steps(17)"/></clipPath>
+    <clipPath id="ab-c3"><rect class="ab-type" x="68" y="176" width="580" height="24" style="animation-delay:2.4s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c4"><rect class="ab-type" x="68" y="202" width="200" height="24" style="animation-delay:3.1s;animation-duration:0.5s;animation-timing-function:steps(17)"/></clipPath>
+    <clipPath id="ab-c5"><rect class="ab-type" x="68" y="226" width="580" height="24" style="animation-delay:3.7s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c6"><rect class="ab-type" x="68" y="252" width="200" height="24" style="animation-delay:4.4s;animation-duration:0.5s;animation-timing-function:steps(18)"/></clipPath>
+    <clipPath id="ab-c7"><rect class="ab-type" x="68" y="276" width="580" height="24" style="animation-delay:5.0s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c8"><rect class="ab-type" x="68" y="302" width="138" height="24" style="animation-delay:5.7s;animation-duration:0.4s;animation-timing-function:steps(12)"/></clipPath>
+    <clipPath id="ab-c9"><rect class="ab-type" x="68" y="326" width="580" height="24" style="animation-delay:6.2s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+    <clipPath id="ab-c10"><rect class="ab-type" x="68" y="352" width="163" height="24" style="animation-delay:6.9s;animation-duration:0.4s;animation-timing-function:steps(15)"/></clipPath>
+    <clipPath id="ab-c11"><rect class="ab-type" x="68" y="376" width="580" height="24" style="animation-delay:7.4s;animation-duration:0.5s;animation-timing-function:steps(1)"/></clipPath>
+  </defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&amp;family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,400;1,700&amp;family=Space+Mono:ital,wght@0,400;0,700;1,400&amp;display=swap');
+
+    .ab-serif { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; }
+    .ab-mono { font-family: 'JetBrains Mono', 'Space Mono', ui-monospace, Menlo, Consolas, monospace; }
+    .ab-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ab-type { transform-box: fill-box; transform-origin: left center; animation-name: ab-type; animation-fill-mode: both; }
+    .ab-card { animation: ab-in 1s cubic-bezier(.16,1,.3,1) both; }
+    .ab-fade { animation: ab-fade 1s ease both; }
+    @keyframes ab-type { 0% { transform: scaleX(0); } 85%, 100% { transform: scaleX(1); } }
+    @keyframes ab-in { from { opacity: 0; transform: translateX(24px); } to { opacity: 1; transform: none; } }
+    @keyframes ab-fade { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .ab-type, .ab-card, .ab-fade { animation: none; } }
+  </style>
+  <rect width="1200" height="420" rx="20" fill="url(#ab-bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#ab-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#8B5CF6" stroke-opacity=".25"/>
+
+  <!-- Terminal window -->
+  <g class="ab-fade">
+    <rect x="40" y="32" width="760" height="356" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".35"/>
+    <rect x="40" y="32" width="760" height="356" rx="14" fill="url(#ab-scan)"/>
+    <path d="M40 46 a14 14 0 0 1 14 -14 H786 a14 14 0 0 1 14 14 V68 H40 Z" fill="#0B1020"/>
+    <line x1="40" y1="68" x2="800" y2="68" stroke="#8B5CF6" stroke-opacity=".25"/>
+    <circle cx="62" cy="50" r="5" fill="#EF4444"/><circle cx="80" cy="50" r="5" fill="#F59E0B"/><circle cx="98" cy="50" r="5" fill="#10B981"/>
+    <text class="ab-mono" x="420" y="54" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#94A3B8">ravnoor@portfolio: ~</text>
+  </g>
+  <g class="ab-mono" font-size="12.5">
+    <g clip-path="url(#ab-c0)"><text x="72" y="118" fill="#22D3EE">$</text><text x="94" y="118" fill="#FFFFFF">whoami</text></g>
+    <g clip-path="url(#ab-c1)"><text x="72" y="142" fill="#8B5CF6">→</text><text x="94" y="142" fill="#CBD5E1">Ravnoor Kaur · Aspiring Software Developer</text></g>
+
+    <g clip-path="url(#ab-c2)"><text x="72" y="168" fill="#22D3EE">$</text><text x="94" y="168" fill="#FFFFFF">cat education.txt</text></g>
+    <g clip-path="url(#ab-c3)"><text x="72" y="192" fill="#8B5CF6">→</text><text x="94" y="192" fill="#CBD5E1">B.Tech CSE (AI &amp; ML) · Lovely Professional University</text></g>
+
+    <g clip-path="url(#ab-c4)"><text x="72" y="218" fill="#22D3EE">$</text><text x="94" y="218" fill="#FFFFFF">cat academic.txt</text></g>
+    <g clip-path="url(#ab-c5)"><text x="72" y="242" fill="#8B5CF6">→</text><text x="94" y="242" fill="#CBD5E1">CGPA: 8.44 · Class XII: 82% · Class X: 91%</text></g>
+
+    <g clip-path="url(#ab-c6)"><text x="72" y="268" fill="#22D3EE">$</text><text x="94" y="268" fill="#FFFFFF">cat experience.txt</text></g>
+    <g clip-path="url(#ab-c7)"><text x="72" y="292" fill="#8B5CF6">→</text><text x="94" y="292" fill="#CBD5E1">Community Dev (Times of India) · AI/ML Intern (Uplyx)</text></g>
+
+    <g clip-path="url(#ab-c8)"><text x="72" y="318" fill="#22D3EE">$</text><text x="94" y="318" fill="#FFFFFF">ls ./shipped</text></g>
+    <g clip-path="url(#ab-c9)"><text x="72" y="342" fill="#8B5CF6">→</text><text x="94" y="342" fill="#CBD5E1">nyaya-sahayak  amazon-clone  codecaffeine  webdev-progress</text></g>
+
+    <g clip-path="url(#ab-c10)"><text x="72" y="368" fill="#22D3EE">$</text><text x="94" y="368" fill="#FFFFFF">echo $PRINCIPLE</text></g>
+    <g clip-path="url(#ab-c11)"><text x="72" y="392" fill="#8B5CF6">→</text><text x="94" y="392" fill="#CBD5E1">clean scalable code · learning through practical problem-solving</text></g>
+  </g>
+
+  <!-- Right side summary cards -->
+  <g class="ab-card" style="animation-delay:1.0s"><g transform="translate(830 46)">
+    <rect width="330" height="98" rx="12" fill="#0B1020" stroke="#8B5CF6" stroke-opacity=".3"/>
+    <text class="ab-mono" x="22" y="30" font-size="10.5" letter-spacing="2" fill="#8B5CF6">CORE FOCUS</text>
+    <text class="ab-serif" x="22" y="58" font-size="18" font-weight="600" fill="#FFFFFF">AI/ML &amp; Software Dev</text>
+    <text class="ab-sans" x="22" y="80" font-size="12.5" fill="#94A3B8">Building intelligent web systems &amp; tools</text>
+  </g></g>
+
+  <g class="ab-card" style="animation-delay:1.2s"><g transform="translate(830 160)">
+    <rect width="330" height="98" rx="12" fill="#0B1020" stroke="#22D3EE" stroke-opacity=".3"/>
+    <text class="ab-mono" x="22" y="30" font-size="10.5" letter-spacing="2" fill="#22D3EE">CURRENT STATUS</text>
+    <text class="ab-serif" x="22" y="58" font-size="18" font-weight="600" fill="#FFFFFF">Building • Learning • Shipping</text>
+    <text class="ab-sans" x="22" y="80" font-size="12.5" fill="#94A3B8">Python · React · FastAPI · Machine Learning</text>
+  </g></g>
+
+  <g class="ab-card" style="animation-delay:1.4s"><g transform="translate(830 274)">
+    <rect width="330" height="98" rx="12" fill="#0B1020" stroke="#8B5CF6" stroke-opacity=".3"/>
+    <text class="ab-mono" x="22" y="30" font-size="10.5" letter-spacing="2" fill="#8B5CF6">ACADEMIC EXCELLENCE</text>
+    <text class="ab-serif" x="22" y="58" font-size="18" font-weight="600" fill="#FFFFFF">8.44 CGPA · B.Tech</text>
+    <text class="ab-sans" x="22" y="80" font-size="12.5" fill="#94A3B8">Lovely Professional University (LPU)</text>
+  </g></g>
+</svg>

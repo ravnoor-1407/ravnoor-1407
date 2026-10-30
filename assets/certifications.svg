@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ce-t ce-d">
+  <title id="ce-t">Certifications</title>
+  <desc id="ce-d">10 Verified credentials from Infosys, Cisco, IBM, Coursera, Uplyx and Times Foundation.</desc>
+  <defs>
+    <linearGradient id="ce-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#050814"/></linearGradient>
+    <radialGradient id="ce-glow" cx="15%" cy="100%" r="70%"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".4"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&amp;family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,400;1,700&amp;family=Space+Mono:ital,wght@0,400;0,700;1,400&amp;display=swap');
+
+    .ce-serif { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; }
+    .ce-mono { font-family: 'JetBrains Mono', 'Space Mono', ui-monospace, Menlo, Consolas, monospace; }
+    .ce-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ce-tile { animation: ce-in 1s cubic-bezier(.34,1.3,.64,1) both; }
+    @keyframes ce-in { from { opacity: 0; transform: translateY(18px) scale(.97); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .ce-tile { animation: none; } }
+  </style>
+  <rect width="1200" height="420" rx="20" fill="url(#ce-bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#ce-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="419" rx="19.5" fill="none" stroke="#8B5CF6" stroke-opacity=".25"/>
+  
+    <g class="ce-tile" style="animation-delay:0.10s"><g transform="translate(36 36)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#22D3EE">INFOSYS</text>
+      <circle cx="192" cy="28" r="3" fill="#22D3EE"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Intro to Artificial</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1">Intelligence</text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">March 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.18s"><g transform="translate(264 36)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#8B5CF6">CISCO</text>
+      <circle cx="192" cy="28" r="3" fill="#8B5CF6"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">C++ Essentials 1</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1"></text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">February 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.26s"><g transform="translate(492 36)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#22D3EE">CISCO</text>
+      <circle cx="192" cy="28" r="3" fill="#22D3EE"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Python Essentials 1</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1"></text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">January 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.34s"><g transform="translate(720 36)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#8B5CF6">COURSERA</text>
+      <circle cx="192" cy="28" r="3" fill="#8B5CF6"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Python for Data</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1">Science &amp; AI</text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">January 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.42s"><g transform="translate(948 36)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#22D3EE">IBM</text>
+      <circle cx="192" cy="28" r="3" fill="#22D3EE"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">AI Fundamentals</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1"></text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">September 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.50s"><g transform="translate(36 221)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#8B5CF6">IBM</text>
+      <circle cx="192" cy="28" r="3" fill="#8B5CF6"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Generative AI in</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1">Action</text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">September 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.58s"><g transform="translate(264 221)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#22D3EE">IBM</text>
+      <circle cx="192" cy="28" r="3" fill="#22D3EE"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Make GenAI Work</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1">for You</text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">September 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.66s"><g transform="translate(492 221)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#8B5CF6">UPLYX</text>
+      <circle cx="192" cy="28" r="3" fill="#8B5CF6"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Industrial Training in</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1">ML</text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">June 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.74s"><g transform="translate(720 221)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#22D3EE" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#22D3EE">TIMES FOUNDATION</text>
+      <circle cx="192" cy="28" r="3" fill="#22D3EE"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Community Dev Project</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1"></text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">July 2026</text>
+    </g></g>
+  
+    <g class="ce-tile" style="animation-delay:0.82s"><g transform="translate(948 221)">
+      <rect width="216" height="165" rx="14" fill="#060913" stroke="#8B5CF6" stroke-opacity=".25"/>
+      <rect width="216" height="165" rx="14" fill="none" stroke="#8B5CF6" stroke-opacity=".5" stroke-width="1.2"/>
+      <text class="ce-mono" x="18" y="32" font-size="11" font-weight="700" letter-spacing="2" fill="#8B5CF6">TECH VEDA</text>
+      <circle cx="192" cy="28" r="3" fill="#8B5CF6"/>
+      <line x1="18" y1="48" x2="198" y2="48" stroke="#8B5CF6" stroke-opacity=".2"/>
+      <text class="ce-sans" x="18" y="78" font-size="13" font-weight="600" fill="#FFFFFF">Effective Time Management</text>
+      <text class="ce-sans" x="18" y="98" font-size="13" font-weight="600" fill="#CBD5E1"></text>
+      <text class="ce-mono" x="18" y="136" font-size="10.5" fill="#94A3B8">October 2025</text>
+    </g></g>
+  
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="ach-title ach-desc">
+  <title id="ach-title">Recognition &amp; Achievements</title>
+  <desc id="ach-desc">Code-E-Haunt 3.0 National Hackathon. Times of India Community Development Internship. CGPA 8.44. LeetCode 15+ problems. Class XII 82%, Class X 91%.</desc>
+
+  <defs>
+    <linearGradient id="ach-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#050814"/></linearGradient>
+    <radialGradient id="ach-glow-a" cx="85%" cy="0%" r="90%"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".75"/><stop offset="1" stop-color="#0B1020" stop-opacity="0"/></radialGradient>
+    <radialGradient id="ach-glow-b" cx="90%" cy="0%" r="90%"><stop offset="0" stop-color="#22D3EE" stop-opacity=".4"/><stop offset="1" stop-color="#0B1020" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ach-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset=".45" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ach-clip-a"><rect x="0" y="0" width="560" height="250" rx="16"/></clipPath>
+    <clipPath id="ach-clip-b"><rect x="0" y="0" width="560" height="250" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&amp;family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,400;1,700&amp;family=Space+Mono:ital,wght@0,400;0,700;1,400&amp;display=swap');
+
+    .ach-serif { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; }
+    .ach-mono { font-family: 'JetBrains Mono', 'Space Mono', ui-monospace, Menlo, Consolas, monospace; }
+    .ach-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ach-in { animation: ach-in 1.2s cubic-bezier(.16,1,.3,1) both; }
+    .a1 { animation-delay: .1s; } .a2 { animation-delay: .35s; } .a3 { animation-delay: .6s; }
+    .ach-draw { stroke-dasharray: 1200; stroke-dashoffset: 1200; animation: ach-draw 2.6s cubic-bezier(.65,0,.35,1) .8s forwards; }
+    @keyframes ach-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @keyframes ach-draw { to { stroke-dashoffset: 0; } }
+    .ach-trace-a { stroke-dasharray: 340 1900; stroke-dashoffset: 2240; animation: ach-trace-a 6s linear infinite; }
+    @keyframes ach-trace-a { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ach-in { animation: none; } .ach-draw { animation: none; stroke-dashoffset: 0; } .ach-trace-a { display: none; } }
+  </style>
+
+  <rect width="1200" height="430" rx="20" fill="url(#ach-bg)"/>
+  <rect x=".5" y=".5" width="1199" height="429" rx="19.5" fill="none" stroke="#8B5CF6" stroke-opacity=".25"/>
+
+  <!-- Code-E-Haunt 3.0 Card -->
+  <g class="ach-in a1"><g transform="translate(30 24)">
+    <g clip-path="url(#ach-clip-a)">
+      <rect width="560" height="250" fill="#060913"/>
+      <rect width="560" height="250" fill="url(#ach-glow-a)"/>
+      <text class="ach-serif" x="540" y="124" text-anchor="end" font-size="110" font-weight="800" fill="#8B5CF6" fill-opacity=".12">HACK</text>
+    </g>
+    <rect x=".5" y=".5" width="559" height="249" rx="15.5" fill="none" stroke="#8B5CF6" stroke-opacity=".4"/>
+    <rect class="ach-trace-a" x=".5" y=".5" width="559" height="249" rx="15.5" fill="none" stroke="url(#ach-trace)" stroke-width="1.8" stroke-linecap="round"/>
+    <text class="ach-mono" x="32" y="50" font-size="12" font-weight="700" letter-spacing="2.6" fill="#22D3EE">CODINGBLOCKS LPU · MARCH 2026</text>
+    <text class="ach-serif" x="30" y="105" font-size="38" font-weight="700" letter-spacing="-1" fill="#FFFFFF">Code-E-Haunt 3.0</text>
+    <text class="ach-sans" x="32" y="142" font-size="15" font-weight="600" fill="#E2E8F0">National-Level Inter-University Hackathon</text>
+    <text class="ach-sans" x="32" y="172" font-size="13.5" fill="#94A3B8">Collaborative technical problem-solving, rapid prototyping</text>
+    <text class="ach-sans" x="32" y="196" font-size="13.5" fill="#94A3B8">and modern algorithmic development in high-pressure sessions.</text>
+  </g></g>
+
+  <!-- Times of India Internship Card -->
+  <g class="ach-in a2"><g transform="translate(610 24)">
+    <g clip-path="url(#ach-clip-b)">
+      <rect width="560" height="250" fill="#060913"/>
+      <rect width="560" height="250" fill="url(#ach-glow-b)"/>
+      <text class="ach-serif" x="540" y="130" text-anchor="end" font-size="130" font-weight="800" fill="#22D3EE" fill-opacity=".1">250+</text>
+    </g>
+    <rect x=".5" y=".5" width="559" height="249" rx="15.5" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
+    <text class="ach-mono" x="32" y="50" font-size="12" font-weight="700" letter-spacing="2.6" fill="#8B5CF6">TIMES OF INDIA · JUNE 2025 – JULY 2026</text>
+    <text class="ach-serif" x="30" y="105" font-size="38" font-weight="700" letter-spacing="-1" fill="#FFFFFF">Times Foundation Intern</text>
+    <text class="ach-sans" x="32" y="142" font-size="15" font-weight="600" fill="#E2E8F0">Community Development &amp; Outreach</text>
+    <text class="ach-sans" x="32" y="172" font-size="13.5" fill="#94A3B8">Environmental awareness initiatives across two government schools.</text>
+    <text class="ach-sans" x="32" y="196" font-size="13.5" fill="#94A3B8">Facilitated 250+ students in Times Critical Thinking Championship.</text>
+  </g></g>
+
+  <!-- Animated separator line -->
+  <path class="ach-draw" d="M30 300 H1170" stroke="#8B5CF6" stroke-opacity=".35" stroke-width="1.5"/>
+
+  <!-- Score Strip -->
+  <g class="ach-in a3 ach-sans" font-size="13" fill="#CBD5E1">
+    <g transform="translate(45 310)">
+      <circle cx="0" cy="0" r="3.5" fill="#22D3EE"/>
+      <text class="ach-mono" y="28" font-size="11" letter-spacing="2" fill="#8B5CF6">ACADEMICS</text>
+      <text class="ach-serif" y="68" font-size="36" font-weight="700" fill="#FFFFFF">8.44</text>
+      <text y="92" fill="#94A3B8">CGPA · B.Tech AI &amp; ML</text>
+    </g>
+    <g transform="translate(285 310)">
+      <circle cx="0" cy="0" r="3.5" fill="#22D3EE"/>
+      <text class="ach-mono" y="28" font-size="11" letter-spacing="2" fill="#22D3EE">LEETCODE</text>
+      <text class="ach-serif" y="68" font-size="36" font-weight="700" fill="#FFFFFF">15+</text>
+      <text y="92" fill="#94A3B8">DSA problems solved</text>
+    </g>
+    <g transform="translate(525 310)">
+      <circle cx="0" cy="0" r="3.5" fill="#22D3EE"/>
+      <text class="ach-mono" y="28" font-size="11" letter-spacing="2" fill="#8B5CF6">CLASS XII</text>
+      <text class="ach-serif" y="68" font-size="36" font-weight="700" fill="#FFFFFF">82%</text>
+      <text y="92" fill="#94A3B8">Senior Secondary Board</text>
+    </g>
+    <g transform="translate(765 310)">
+      <circle cx="0" cy="0" r="3.5" fill="#22D3EE"/>
+      <text class="ach-mono" y="28" font-size="11" letter-spacing="2" fill="#22D3EE">CLASS X</text>
+      <text class="ach-serif" y="68" font-size="36" font-weight="700" fill="#FFFFFF">91%</text>
+      <text y="92" fill="#94A3B8">Secondary School Board</text>
+    </g>
+    <g transform="translate(1005 310)">
+      <circle cx="0" cy="0" r="3.5" fill="#22D3EE"/>
+      <text class="ach-mono" y="28" font-size="11" letter-spacing="2" fill="#8B5CF6">INTERNSHIPS</text>
+      <text class="ach-serif" y="68" font-size="36" font-weight="700" fill="#FFFFFF">2</text>
+      <text y="92" fill="#94A3B8">Times of India &amp; Uplyx</text>
+    </g>
+  </g>
+</svg>

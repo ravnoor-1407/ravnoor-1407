@@ -48,10 +48,6 @@
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — Consistent, daily progress.">
 <img src="assets/contribution-snake.svg" width="100%" alt="Animated GitHub contribution grid. Re-rendered daily via GitHub Actions.">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravnoor-1407&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=0B1020&title_color=22D3EE&text_color=94A3B8&icon_color=8B5CF6&custom_title=GitHub%20at%20a%20glance" width="420" alt="GitHub stats for ravnoor-1407: stars, commits, pull requests and issues">
-</p>
-
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — 10 Verified credentials.">
 <a href="https://ravnoor-portfolio.vercel.app/"><img src="assets/certifications.svg" width="100%" alt="Certifications: Infosys Introduction to AI; Cisco C++ Essentials 1 and Python Essentials 1; Coursera Python for Data Science, AI &amp; Development; IBM Artificial Intelligence Fundamentals, Generative AI in Action, Make a Generative AI Work for You; Uplyx Solutions Industrial Program in Machine Learning; Times Foundation Community Development Project Intern; Tech Veda Effective Time Management."></a>
 

@@ -187,10 +187,10 @@ const stats = [
 ];
 const statsSvg = stats
   .map(([label, value, sub], i) => {
-    const x = 610 + i * 150;
-    return `<g transform="translate(${x} 58)">
+    const x = 580 + i * 145;
+    return `<g transform="translate(${x} 54)">
       <text class="hm-mono" font-size="10" letter-spacing="1.8" fill="#8B5CF6">${label}</text>
-      <text class="hm-serif" y="44" font-size="36" font-weight="700" fill="#FFFFFF">${esc(value)}</text>
+      <text class="hm-serif" y="44" font-size="34" font-weight="700" fill="#FFFFFF">${esc(value)}</text>
       <text class="hm-mono" y="64" font-size="9.5" fill="#94A3B8">${esc(sub)}</text>
     </g>`;
   })
@@ -238,8 +238,9 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
   <rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="19.5" fill="none" stroke="#8B5CF6" stroke-opacity=".25"/>
 
   <g class="hm-fade">
-    <text class="hm-mono" x="56" y="68" font-size="11" letter-spacing="2.6" fill="#8B5CF6">COMMIT LOG · REAL GITHUB ACTIVITY</text>
-    <text class="hm-serif" x="54" y="110" font-size="27" font-weight="700" fill="#FFFFFF">A journey of building, <tspan font-style="italic" fill="#22D3EE">one square</tspan> at a time.</text>
+    <text class="hm-mono" x="56" y="62" font-size="11" letter-spacing="2.6" fill="#8B5CF6">COMMIT LOG · REAL GITHUB ACTIVITY</text>
+    <text class="hm-serif" x="54" y="98" font-size="24" font-weight="700" fill="#FFFFFF">A journey of building,</text>
+    <text class="hm-serif" x="54" y="128" font-size="24" font-weight="700" fill="#FFFFFF"><tspan font-style="italic" fill="#22D3EE">one square</tspan> at a time.</text>
     ${statsSvg}
   </g>
 

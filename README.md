@@ -24,19 +24,13 @@
   <a href="https://github.com/ravnoor-1407/Nyaya-Sahayak-Legal-AI-Assistant"><img src="https://img.shields.io/badge/Repository-Nyaya_Sahayak-8B5CF6?style=for-the-badge&labelColor=0B1020&logoColor=22D3EE&logo=github" alt="Nyaya Sahayak repository"></a>
 </p>
 
-<!-- Project 2: Amazon Clone -->
-<a href="https://github.com/ravnoor-1407/Amazon-Clone"><img src="assets/project-amazon-clone.svg" width="100%" alt="Amazon Clone: Responsive, interactive e-commerce frontend inspired by Amazon, featuring product browsing, search, filtering, shopping cart, wishlist and checkout functionality. HTML5, CSS3, JavaScript, LocalStorage."></a>
-<p align="center">
-  <a href="https://github.com/ravnoor-1407/Amazon-Clone"><img src="https://img.shields.io/badge/Repository-Amazon_Clone-8B5CF6?style=for-the-badge&labelColor=0B1020&logoColor=22D3EE&logo=github" alt="Amazon Clone repository"></a>
-</p>
-
-<!-- Project 3: CodeCaffeine -->
+<!-- Project 2: CodeCaffeine -->
 <a href="https://github.com/ravnoor-1407/CodeCaffeine"><img src="assets/project-codecaffeine.svg" width="100%" alt="CodeCaffeine: Terminal-based cafe management system demonstrating menu handling, nested dictionaries, conditional logic, order processing and bill calculation. Python."></a>
 <p align="center">
   <a href="https://github.com/ravnoor-1407/CodeCaffeine"><img src="https://img.shields.io/badge/Repository-CodeCaffeine-8B5CF6?style=for-the-badge&labelColor=0B1020&logoColor=22D3EE&logo=github" alt="CodeCaffeine repository"></a>
 </p>
 
-<!-- Project 4: WebDev Progress Log -->
+<!-- Project 3: WebDev Progress Log -->
 <a href="https://github.com/ravnoor-1407/WebDev-Progress-Log"><img src="assets/project-webdev-progress.svg" width="100%" alt="WebDev Progress Log: Structured documentation of web development learning journey, covering frontend development, JavaScript, backend technologies and practical projects. Node.js, Express, JavaScript, Bootstrap."></a>
 <p align="center">
   <a href="https://github.com/ravnoor-1407/WebDev-Progress-Log"><img src="https://img.shields.io/badge/Repository-WebDev_Progress_Log-8B5CF6?style=for-the-badge&labelColor=0B1020&logoColor=22D3EE&logo=github" alt="WebDev Progress Log repository"></a>
